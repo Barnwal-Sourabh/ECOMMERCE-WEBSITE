@@ -24,7 +24,7 @@ G&STORE is an Ecommerce website project built using React, React Router, JavaScr
 
 ## Introduction
 
-G&STORE Ecommerce Website is a full-fledged online store application that allows users to browse through various products, add them to their cart, make purchases, and complete payments using the Stripe payment gateway. The application is built with a frontend powered by React and React Router for handling navigation, while the backend is built with Strapi to manage the product and user data using REST APIs. MySQL database is used to store the data.
+G&STORE Ecommerce Website is a full-fledged online store application that allows users to browse through various products, add them to their cart, make purchases, and complete payments using the Stripe payment gateway. The application is built with a frontend powered by React and React Router for handling navigation, while the backend is built with Strapi to manage the product. 
 
 ## Features
 
@@ -99,10 +99,10 @@ npm start
 - React Router
 - JavaScript
 - SCSS (Sass)
-- REST API
+- Redux Toolkit
 - Strapi
 - Stripe
-- MySQL
+
 
 ## Contributing
 
